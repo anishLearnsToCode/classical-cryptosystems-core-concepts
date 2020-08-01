@@ -16,6 +16,8 @@
 - [Quiz: Cryptographic Tidbits](src/week1/quiz-cryptographic-tidbits.md)
 
 ## Week 2
+- [Practice Quiz: Cryptanalysis](src/week2/practice-quiz-cryptanalysis.md)
+- [Quiz: Cryptanalysis](src/week2/quiz-cryptanalysis.md)
 
 ## Week 3
 
