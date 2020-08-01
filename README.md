@@ -12,6 +12,8 @@
 - [Week 3](#week-3)
 
 ## Week 1
+- [Practice Quiz: Cryptographic Tidbits](src/week1/practice-quiz-cryptographic-tidbits.md)
+- [Quiz: Cryptographic Tidbits](src/week1/quiz-cryptographic-tidbits.md)
 
 ## Week 2
 
