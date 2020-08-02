@@ -24,4 +24,5 @@
 - [Practice Quiz: Hash Function](src/week3/practice-quiz-hash-functions.md)
 - [Quiz: Hash Function](src/week3/quiz-hash-functions.md)
 
-## Certificate
+## [Certificate](https://www.coursera.org/verify/7FVGRVKAFW73)
+![certificate](certificate.PNG)
