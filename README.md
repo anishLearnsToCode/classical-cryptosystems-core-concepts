@@ -10,6 +10,7 @@
 - [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
+- [Certificate](#certificate)
 
 ## Week 1
 - [Practice Quiz: Cryptographic Tidbits](src/week1/practice-quiz-cryptographic-tidbits.md)
@@ -20,5 +21,7 @@
 - [Quiz: Cryptanalysis](src/week2/quiz-cryptanalysis.md)
 
 ## Week 3
+- [Practice Quiz: Hash Function](src/week3/practice-quiz-hash-functions.md)
+- [Quiz: Hash Function](src/week3/quiz-hash-functions.md)
 
 ## Certificate
