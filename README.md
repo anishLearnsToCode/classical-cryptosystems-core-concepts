@@ -1,8 +1,6 @@
 # Classical Cryptosystems and Core Concepts ~University of Colorado   
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+[![course-list](https://img.shields.io/badge/Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
 [![specialization](https://img.shields.io/badge/specialization-Introdution%20to%20Applied%20Cryptography-1f72ff.svg)](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
 
 ## Index
